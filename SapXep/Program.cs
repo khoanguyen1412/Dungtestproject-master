@@ -19,6 +19,7 @@ namespace SapXep
             Application.Run(new Form1());
 
             //khoa edit
+            //khoa edit 2
         }
     }
 }
